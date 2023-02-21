@@ -1212,9 +1212,26 @@
 .fa-youtube:before {
   content: "\f167";
 }
+.fa-tiktok {
+
+    background: url(images/tiktok.svg) no-repeat;
+
+    width: 22px;
+
+    height: 25px;
+
+}
 .fa-tiktok:before {
-  content: "\e07b"; 
-  }
+
+    background: url(images/tiktok.svg) no-repeat;
+
+    width: 22px;
+
+    height: 25px;
+
+}
+
+
 .fa-xing:before {
   content: "\f168";
 }

@@ -288,6 +288,15 @@
 .fa-list-alt:before {
   content: "\f022";
 }
+.fa.fa-tiktok {
+
+    background: url(images/tiktok.svg) no-repeat;
+
+    width: 22px;
+
+    height: 25px;
+
+}
 .fa-lock:before {
   content: "\f023";
 }

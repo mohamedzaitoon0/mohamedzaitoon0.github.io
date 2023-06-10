@@ -147,7 +147,7 @@ Since: 06/08/2016
 			document.location.assign("https://www.instagram.com/mohamedzaitoon0");
 		};
 $scope.goToYoutube = function(){
-			document.location.assign("https://www.youtube.com/@mohamedzaitoon01");
+			document.location.assign("https://www.youtube.com/@mohamedzaitoon00");
 		};
 $scope.goToWhatsApp = function(){
 			document.location.assign("https://wa.me/201557817621");
@@ -158,7 +158,7 @@ $scope.goToWhatsApp = function(){
 		};
 
 		$scope.sendMail = function(){
-    		$window.location.href = "mailto:mohamedzaitoon621@gmail.com";
+    		$window.location.href = "mailto:mohamedzaitoon7621@gmail.com";
 		};
 		$scope.callMobile = function(){
     		$window.location.href = "tel:+201557817621";

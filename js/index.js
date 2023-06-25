@@ -133,7 +133,7 @@ Since: 06/08/2016
 		};
 
 		$scope.goToFacebook = function(){
-			document.location.assign("https://www.facebook.com/mohamedzaitoon01");
+			document.location.assign("https://www.facebook.com/mohamedzaitoon001");
 		};
 	  
 	  $scope.goToTikTok = function(){
@@ -144,7 +144,7 @@ Since: 06/08/2016
 			document.location.assign("https://www.twitter.com/mohamedzaitoon0");
 		};
  $scope.goToInstagram = function(){
-			document.location.assign("https://www.instagram.com/mohamedzaitoon01");
+			document.location.assign("https://www.instagram.com/mohamedzaitoon001");
 		};
 $scope.goToYoutube = function(){
 			document.location.assign("https://www.youtube.com/@mohamedzaitoon001");

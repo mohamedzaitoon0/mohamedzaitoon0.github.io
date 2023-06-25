@@ -150,7 +150,7 @@ $scope.goToYoutube = function(){
 			document.location.assign("https://www.youtube.com/@mohamedzaitoon001");
 		};
 $scope.goToWhatsApp = function(){
-			document.location.assign("https://wa.me/201557817621");
+			document.location.assign("https://wa.me/201060795179");
 		};
 
 		$scope.goToGithub = function(){
@@ -161,7 +161,7 @@ $scope.goToWhatsApp = function(){
     		$window.location.href = "mailto:mohamedzaitoon01@gmail.com";
 		};
 		$scope.callMobile = function(){
-    		$window.location.href = "tel:+201557817621";
+    		$window.location.href = "tel:+201206126529";
 		};
 		
 

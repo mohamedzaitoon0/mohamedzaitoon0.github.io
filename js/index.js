@@ -133,7 +133,7 @@ Since: 06/08/2016
 		};
 
 		$scope.goToFacebook = function(){
-			document.location.assign("https://www.facebook.com/mohamedzaitoon001");
+			document.location.assign("https://www.facebook.com/M0HAMEDZAIT00N");
 		};
 	  
 	  $scope.goToTikTok = function(){
@@ -141,20 +141,24 @@ Since: 06/08/2016
 		};
 	  
  $scope.goToTwitter = function(){
-			document.location.assign("https://www.twitter.com/mohamedzaitoon0");
+			document.location.assign("https://www.twitter.com/M0HAMEDZAIT00N");
 		};
  $scope.goToInstagram = function(){
-			document.location.assign("https://www.instagram.com/mohamedzaitoon001");
+			document.location.assign("https://www.instagram.com/mohamed___zaitoon");
 		};
 $scope.goToYoutube = function(){
-			document.location.assign("https://www.youtube.com/@mohamedzaitoon001");
+			document.location.assign("https://www.youtube.com/@mohamed___zaitoon");
 		};
 $scope.goToWhatsApp = function(){
-			document.location.assign("https://wa.me/201060795179");
+			document.location.assign("https://wa.me/+201060795179");
 		};
 
 		$scope.goToGithub = function(){
-			document.location.assign("https://github.com/mohamedzaitoon0");
+			document.location.assign("https://github.com/mohamed-zaitoon");
+		};
+
+		$scope.goToTelegram = function(){
+			document.location.assign("https://t.me/M0HAMEDZAIT00N");
 		};
 
 		$scope.sendMail = function(){
@@ -164,7 +168,7 @@ $scope.goToWhatsApp = function(){
     		$window.location.href = "tel:+201206126529";
 		};
 		
-
+		
     $scope.downloadPaper = function(link){
     		$window.location.href = link;
     };

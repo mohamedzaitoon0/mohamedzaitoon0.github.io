@@ -152,6 +152,9 @@ $scope.goToYoutube = function(){
 $scope.goToWhatsApp = function(){
 			document.location.assign("https://wa.me/+201060795179");
 		};
+$scope.goToWhatsAppp = function(){
+			document.location.assign("https://wa.me/+201206126529");
+		};
 
 		$scope.goToGithub = function(){
 			document.location.assign("https://github.com/mohamed-zaitoon");

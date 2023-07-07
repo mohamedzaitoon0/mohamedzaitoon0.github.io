@@ -137,7 +137,7 @@ Since: 06/08/2016
 		};
 	  
 	  $scope.goToTikTok = function(){
-			document.location.assign("https://tiktok.com/@mohamedzaitoon01");
+			document.location.assign("https://tiktok.com/@mohamed___zaitoon");
 		};
 	  
  $scope.goToTwitter = function(){

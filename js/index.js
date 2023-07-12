@@ -133,7 +133,7 @@ Since: 06/08/2016
 		};
 
 		$scope.goToFacebook = function(){
-			document.location.assign("https://www.facebook.com/M0HAMEDZAIT00N");
+			document.location.assign("https://www.facebook.com/MOHAMEDZAIT00N");
 		};
 	  
 	  $scope.goToTikTok = function(){
@@ -141,7 +141,7 @@ Since: 06/08/2016
 		};
 	  
  $scope.goToTwitter = function(){
-			document.location.assign("https://www.twitter.com/M0HAMEDZAIT00N");
+			document.location.assign("https://www.twitter.com/MOHAMEDZAIT00N");
 		};
  $scope.goToInstagram = function(){
 			document.location.assign("https://www.instagram.com/mohamed___zaitoon");
@@ -161,7 +161,7 @@ $scope.goToWhatsAppp = function(){
 		};
 
 		$scope.goToTelegram = function(){
-			document.location.assign("https://t.me/M0HAMEDZAIT00N");
+			document.location.assign("https://t.me/MOHAMEDZAIT00N");
 		};
 
 		$scope.sendMail = function(){

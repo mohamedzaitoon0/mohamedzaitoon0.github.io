@@ -158,7 +158,7 @@ $scope.goToWhatsApp = function(){
 		};
 
 		$scope.goToTelegram = function(){
-			document.location.assign("https://t.me/+201060795179");
+			document.location.assign("https://t.me/M0HAMEDZAIT00N");
 		};
 
 		$scope.sendMail = function(){

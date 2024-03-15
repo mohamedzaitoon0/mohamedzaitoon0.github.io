@@ -147,7 +147,7 @@ Since: 06/08/2016
 			document.location.assign("https://www.instagram.com/mohamedzaitoon.ig");
 		};
 $scope.goToYoutube = function(){
-			document.location.assign("https://www.youtube.com/@mohamedzaitoon.yt");
+			document.location.assign("https://www.youtube.com/@mohamedzaitoon_yt");
 		};
 $scope.goToWhatsApp = function(){
 			document.location.assign("https://wa.me/+201060795179");

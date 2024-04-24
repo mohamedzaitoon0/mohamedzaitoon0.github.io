@@ -133,21 +133,21 @@ Since: 06/08/2016
 		};
 
 		$scope.goToFacebook = function(){
-			document.location.assign("https://www.facebook.com/mohamedzaitoon.tk");
+			document.location.assign("https://www.facebook.com/mohamedzaitoon8");
 		};
 	  
 	  $scope.goToTikTok = function(){
-			document.location.assign("https://tiktok.com/@mohamedzaitoon_tk");
+			document.location.assign("https://tiktok.com/@mohamed_zaitoon");
 		};
 	  
  $scope.goToTwitter = function(){
 			document.location.assign("https://www.twitter.com/mzaitoon_tk");
 		};
  $scope.goToInstagram = function(){
-			document.location.assign("https://www.instagram.com/mohamedzaitoon.tk");
+			document.location.assign("https://www.instagram.com/mohamedzaitoon8");
 		};
 $scope.goToYoutube = function(){
-			document.location.assign("https://www.youtube.com/@mohamedzaitoon_tk");
+			document.location.assign("https://www.youtube.com/@mohamed_zaitoon");
 		};
 $scope.goToWhatsApp = function(){
 			document.location.assign("https://wa.me/+201060795179");
@@ -158,7 +158,7 @@ $scope.goToWhatsApp = function(){
 		};
 
 		$scope.goToTelegram = function(){
-			document.location.assign("https://t.me/mohamedzaitoon_tk");
+			document.location.assign("https://t.me/mohamed_zaitoon");
 		};
 
 		$scope.sendMail = function(){

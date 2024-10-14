@@ -141,7 +141,7 @@ Since: 06/08/2016
 		};
 	  
  $scope.goToTwitter = function(){
-			document.location.assign("https://www.twitter.com/mzaitoon_tk");
+			document.location.assign("https://www.twitter.com/mohamedzaitoon0");
 		};
  $scope.goToInstagram = function(){
 			document.location.assign("https://www.instagram.com/mohamedzaitoon999");

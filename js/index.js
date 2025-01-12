@@ -137,7 +137,7 @@ Since: 06/08/2016
 		};
 	  
 	  $scope.goToTikTok = function(){
-			document.location.assign("https://tiktok.com/@mohamedzaitoon999");
+			document.location.assign("https://tiktok.com/@hrm_ga");
 		};
 	  
  $scope.goToTwitter = function(){
